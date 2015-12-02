@@ -1,0 +1,6 @@
+title: Chorus Project Updates
+email: plesner@t.undra.org
+description: > 
+baseurl: "/chorus-updates/public"
+url: "http://tundra.github.io"
+markdown: kramdown
